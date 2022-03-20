@@ -1,0 +1,5 @@
+# Plastic_Non-plastic_Waste_Classify_Detect_App
+
+This application would lead to much efficient waste management system. It would create less environmental pollution since disposal, segregation and recycling of plastics is a major problem for waste management system in many localities. People would now be able to dispose waste and segregate easily with the help of this application. It will be less time consuming, cost-effective, easy to operate and does not require labour.
+The model has shown high accuracy which is comparable to the other existing solutions. The results of the model are very encouraging, as the accuracy of the CNN is 97.72%. It consists of 6 and more classes with a total dataset of 50 thousand and more, providing better accuracy for the Keras model using CNN. The application also detects and classifies other types of materials that are generally not same as plastic (with fewer properties) or non-plastic. It shows the results below as soon as the camera captures image of waste material and also compares the material with other types of plastics. The application is named as “TFL Classify” and it is easy to operate for all.
+
